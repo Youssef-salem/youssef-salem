@@ -1,6 +1,6 @@
 # Hi, I'm Youssef 👋
 
-I'm a **Junior Computer Science student** at **The American University in Cairo (AUC)**, currently doing my **internship at Microsoft**.
+I'm a **Junior Computer Science student** at **The American University in Cairo (AUC)**, currently doing my **Software Engineering internship at Microsoft**.
 
 I work mainly in **C++**, **Java**, **Swift** and **Python**, and I'm especially interested in low-level systems, computer architecture, and **accessibility** — building software that works well for everyone, including blind and low-vision users.
 
